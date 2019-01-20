@@ -1,0 +1,1 @@
+To run the project, enter your GoogleMapsAPI-Key in \app\src\debug\res\values\google_maps_api.xml

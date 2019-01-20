@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/user_characteristics">
+        <EditTextPreference
+        android:key="userName"
+        android:title="@string/userName"
+        android:defaultValue="Ich"/>
+        <EditTextPreference
+            android:key="registrationId"
+            android:title="@string/registrationID"
+            android:defaultValue="-1"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Rumtreiber1</string>
+    <string name="title_activity_maps">RumtreiberMap</string>
+    <string name="title_activity_registration">Registrierung</string>
+
+    <string name="user_characteristics">Nutzeraccount</string>
+
+    <!-- Strings related to login -->
+    <string name="registrationID">-1</string>
+    <string name="userName">Ich</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="prompt_surname">Nachname</string>
+    <string name="prompt_forname">Vorname</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="action_sign_in">Registrieren</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="connection_failed">Verbindung zum Server fehlgeschlagen!</string>
+    <string name="user_redundance">User existiert bereits</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">Dieses Feld ist erforderlich.</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
